@@ -2,4 +2,4 @@
 1. A student of a college.
 =======
 student of a college
->>>>>>> b7b71823d3eeef877a7758ccff2ac9f49c90c74d
+
